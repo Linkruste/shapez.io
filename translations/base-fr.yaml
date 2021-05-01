@@ -601,16 +601,16 @@ storyRewards:
             bâtiment !
     reward_stacker:
         title: Assembleur
-        desc: Vous pouvez maintenant assemblées deux formes avec le
+        desc: Vous pouvez maintenant assembler deux formes avec le
             <strong>combineur</strong> ! Les deux entrées sont assemblées,si
             elles peuvent être mises l’une à côté de l’autre, elles sont
             <strong>fusionnées</strong>, sinon, la forme de droite est
             <strong>placée au-dessus</strong> de la forme de gauche.
     reward_balancer:
         title: Répartiteur
-        desc: The multifunctional <strong>balancer</strong> has been unlocked - It can
-            be used to build bigger factories by <strong>splitting and merging
-            items</strong> onto multiple belts!
+        desc: Le <strong>répartiteur</strong> a été débloqué - Il peut être utilisé 
+        pour construire de plus grandes usines en <strong>divisant et regroupant des objets</strong> 
+        en de multiples lignes de convoyeurs !
     reward_tunnel:
         title: Tunnel
         desc: Le <strong>tunnel</strong> a été débloqué. Vous pouvez maintenant faire
@@ -636,12 +636,11 @@ storyRewards:
         title: Fusionneur compact
         desc: Vous avez débloqué le <strong>fusionneur</strong>, une variante du
             <strong>répartiteur</strong>. Il accepte deux entrées et les
-            fusionne en un seul convoyeur !
+            fusionne en une seule sortie !
     reward_splitter:
         title: Répartiteur compact
-        desc: You have unlocked a <strong>splitter</strong> variant of the
-            <strong>balancer</strong> - It accepts one input and splits them
-            into two!
+        desc: Vous avez débloqué une variante <strong>plus petite</strong> du 
+            <strong>répartiteur</strong> - Il accepte seulement une entrée et la divise en deux !
     reward_belt_reader:
         title: Lecteur de débit
         desc: Vous avez débloqué le <strong>lecteur de débit</strong> ! Il vous permet
